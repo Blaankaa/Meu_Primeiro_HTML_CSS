@@ -1,4 +1,4 @@
-## Meu primeiro projeto HTML5 :computer:
+## Meu primeiro projeto HTML+CSS :computer:
 
 ## Nesse projeto eu criei uma página simples no estilo de um blog com um post do blanka :grin:
 
